@@ -1,0 +1,13 @@
+# Secrets and private keys
+*.pem
+*.key
+id_rsa
+id_ed25519
+.env
+.env.*
+.aws/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
